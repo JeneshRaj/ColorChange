@@ -13,7 +13,7 @@ export default function App() {
 
   return (
     <div className = 'App'>
-      <div className='App-color-container border-8 w-40 h-96 m-4 p-4 items-center' 
+      <div className='App-color-container   border-emerald-500 border-4 w-auto h-96 m-4 p-4 items-center' 
       style = {{background: `${uicolor}`}}
       >        
       </div>
